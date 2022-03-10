@@ -6,11 +6,7 @@
 
 /* YOUR CODE HERE: Change the background-color property of the <body> tag to a different color of your choice. */
 body {
-<<<<<<< HEAD
   background-color: rgb(133, 229, 253);
-=======
-  background-color: magenta;
->>>>>>> develop
 }
 
 .page-header {
