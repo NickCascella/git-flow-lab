@@ -15,6 +15,11 @@ const poems = [
     image: "bee.jpeg",
   },
   {
+    author: "Kourosh",
+    poem: "Hamster is big \n Hamster is fat \n He holds a hamster \n Hamster in hand ",
+    image: "kouroshpic.jpg",
+  },
+  {
     author: "James",
     poem: "Roses are red \n Violets are blue \n Unexpected '{' \n on line 32",
     image: "keyboard.jpg",

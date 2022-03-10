@@ -6,7 +6,7 @@
 
 /* YOUR CODE HERE: Change the background-color property of the <body> tag to a different color of your choice. */
 body {
-  background-color: #3b82f6;
+  background-color: rgb(133, 229, 253);
 }
 
 .page-header {
