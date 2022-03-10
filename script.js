@@ -17,7 +17,7 @@ const poems = [
   {
     author: "Ben",
     poem: "Roses are red \n Violets are blue \n Jerry Seinfeld is considering \n Poets all smell like poo",
-    image: "earnings.jpeg",
+    image: "earnings.jpg",
   },
   {
     author: "Lauren",
